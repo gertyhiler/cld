@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Monserrat";
+  src: url(../fonts/monserrat/woff2/AnyConv.com__Montserrat-Bold.woff2);/* 700 */
+  src: local("Montserrat-Bold"), local("MontserratBold"), local("Montserrat Bold"), 
+  url("../fonts/monserrat/woff2/AnyConv.com__Montserrat-Bold.woff2") format("woff2"), 
+  url("../fonts/monserrat/woff/AnyConv.com__Montserrat-Bold.woff") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monserrat";
+  src: url(../fonts/monserrat/woff2/AnyConv.com__Montserrat-ExtraBold.woff2);/* 800 */
+  src: local("Montserrat-ExtraBold"), local("MontserratExtraBold"), local("Montserrat ExtraBold"), 
+  url("../fonts/monserrat/woff2/AnyConv.com__Montserrat-ExtraBold.woff2") format("woff2"), 
+  url("../fonts/monserrat/woff/AnyConv.com__Montserrat-ExtraBold.woff") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monserrat";
+  src: url(../fonts/monserrat/woff2/AnyConv.com__Montserrat-ExtraBold.woff2);/* 800 */
+  src: local("Montserrat-ExtraBold"), local("MontserratExtraBold"), local("Montserrat ExtraBold"), 
+  url("../fonts/monserrat/woff2/AnyConv.com__Montserrat-ExtraBold.woff2") format("woff2"), 
+  url("../fonts/monserrat/woff/AnyConv.com__Montserrat-ExtraBold.woff") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monserrat";
+  src: url(../fonts/monserrat/woff2/AnyConv.com__Montserrat-Regular.woff2);/* 400 */
+  src: local("Montserrat-Regular"), local("MontserratRegular"), local("Montserrat Regular"), 
+  url("../fonts/monserrat/woff2/AnyConv.com__Montserrat-Regular.woff2") format("woff2"), 
+  url("../fonts/monserrat/woff/AnyConv.com__Montserrat-Regular.woff") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Monserrat";
+  src: url(../fonts/monserrat/woff2/AnyConv.com__Montserrat-SemiBold.woff2);/* 600 */
+  src: local("Montserrat-SemiBold"), local("MontserratSemiBold"), local("Montserrat Regular"), 
+  url("../fonts/monserrat/woff2/AnyConv.com__Montserrat-SemiBold.woff2") format("woff2"), 
+  url("../fonts/monserrat/woff/AnyConv.com__Montserrat-SemiBold.woff") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
